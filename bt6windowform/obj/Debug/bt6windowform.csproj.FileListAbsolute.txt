@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\bin\Debug\bt6windowform.exe.config
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\bin\Debug\bt6windowform.exe
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\bin\Debug\bt6windowform.pdb
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.Form1.resources
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.exe
+C:\Users\ADMIN\source\repos\bt6windowform\bt6windowform\obj\Debug\bt6windowform.pdb
